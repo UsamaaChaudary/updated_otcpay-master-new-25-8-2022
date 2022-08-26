@@ -1,0 +1,62 @@
+{
+  "name": "otc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "countup.js": "^2.0.8",
+    "element-ui": "^2.15.1",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "normalize.css": "^8.0.1",
+    "nprogress": "^0.2.0",
+    "serve-static": "^1.15.0",
+    "vue": "^2.6.11",
+    "vue-animate-onscroll": "^1.0.8",
+    "vue-countup-v2": "^4.0.0",
+    "vue-i18n": "^8.24.4",
+    "vue-ls": "^3.2.2",
+    "vue-router": "^3.5.1",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "babel-plugin-component": "^1.1.1",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "html-webpack-plugin": "^5.3.1",
+    "sass": "^1.32.12",
+    "sass-loader": "8.x",
+    "script-ext-html-webpack-plugin": "^2.1.5",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

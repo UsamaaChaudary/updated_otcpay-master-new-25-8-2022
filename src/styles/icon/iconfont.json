@@ -1,0 +1,2151 @@
+{
+  "id": "2533195",
+  "name": "比特钱包",
+  "font_family": "wallet",
+  "css_prefix_text": "wallet-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "25460693",
+      "name": "英镑",
+      "font_class": "GBP",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "26084887",
+      "name": "欧元-圆形",
+      "font_class": "EUR",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "25460839",
+      "name": "澳元",
+      "font_class": "AUD",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "27468465",
+      "name": "ARDR",
+      "font_class": "ARDR",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "27468466",
+      "name": "BLOCK",
+      "font_class": "BLOCK",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "27468467",
+      "name": "ARK",
+      "font_class": "ARK",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "27468468",
+      "name": "BNT",
+      "font_class": "BNT",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "27468469",
+      "name": "BCC",
+      "font_class": "BCC",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "27468470",
+      "name": "ADX",
+      "font_class": "ADX",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "27468471",
+      "name": "DOGE",
+      "font_class": "DOGE",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "27468472",
+      "name": "ICN",
+      "font_class": "ICN",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "27468473",
+      "name": "DASH",
+      "font_class": "DASH",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "27468474",
+      "name": "AE",
+      "font_class": "AE",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "27468475",
+      "name": "BTC",
+      "font_class": "BTC",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "27468476",
+      "name": "BCN",
+      "font_class": "BCN",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "27468477",
+      "name": "BCH",
+      "font_class": "BCH",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "27468478",
+      "name": "GBYTE",
+      "font_class": "GBYTE",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "27468479",
+      "name": "BNB",
+      "font_class": "BNB",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "27468480",
+      "name": "ETH",
+      "font_class": "ETH",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "27468481",
+      "name": "BTCD",
+      "font_class": "BTCD",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "27468482",
+      "name": "BTM",
+      "font_class": "BTM",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "27468483",
+      "name": "DGB",
+      "font_class": "DGB",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "27468484",
+      "name": "DCR",
+      "font_class": "DCR",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "27468485",
+      "name": "BTS",
+      "font_class": "BTS",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "27468486",
+      "name": "MTL",
+      "font_class": "MTL",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "27468487",
+      "name": "ETC",
+      "font_class": "ETC",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "27468488",
+      "name": "EMC2",
+      "font_class": "EMC2",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "27468489",
+      "name": "KMD",
+      "font_class": "KMD",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "27468490",
+      "name": "MNX",
+      "font_class": "MNX",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "27468491",
+      "name": "GRS",
+      "font_class": "GRS",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "27468492",
+      "name": "MAID",
+      "font_class": "MAID",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "27468493",
+      "name": "GAME",
+      "font_class": "GAME",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "27468494",
+      "name": "EDG",
+      "font_class": "EDG",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "27468495",
+      "name": "NXT",
+      "font_class": "NXT",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "27468496",
+      "name": "DGD",
+      "font_class": "DGD",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "27468497",
+      "name": "LSK",
+      "font_class": "LSK",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "27468498",
+      "name": "PAY",
+      "font_class": "PAY",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "27468499",
+      "name": "MCO",
+      "font_class": "MCO",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "27468500",
+      "name": "EOS",
+      "font_class": "EOS",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "27468501",
+      "name": "GNT",
+      "font_class": "GNT",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "27468502",
+      "name": "CVC",
+      "font_class": "CVC",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "27468503",
+      "name": "SNT",
+      "font_class": "SNT",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "27468504",
+      "name": "BTG",
+      "font_class": "BTG",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "27468505",
+      "name": "POT",
+      "font_class": "POT",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "27468506",
+      "name": "SNGLS",
+      "font_class": "SNGLS",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "27468507",
+      "name": "UBQ",
+      "font_class": "UBQ",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "27468508",
+      "name": "GAS",
+      "font_class": "GAS",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "27468509",
+      "name": "ADA",
+      "font_class": "ADA",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "27468510",
+      "name": "NAV",
+      "font_class": "NAV",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "27468511",
+      "name": "ETP",
+      "font_class": "ETP",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "27468512",
+      "name": "XMR",
+      "font_class": "XMR",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "27468513",
+      "name": "ETHOS",
+      "font_class": "ETHOS",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "27468514",
+      "name": "REP",
+      "font_class": "REP",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "27468515",
+      "name": "GNO",
+      "font_class": "GNO",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "27468516",
+      "name": "XEM",
+      "font_class": "XEM",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "27468517",
+      "name": "GXS",
+      "font_class": "GXS",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "27468518",
+      "name": "RDN",
+      "font_class": "RDN",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "27468519",
+      "name": "XVG",
+      "font_class": "XVG",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "27468520",
+      "name": "STEEM",
+      "font_class": "STEEM",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "27468521",
+      "name": "XZC",
+      "font_class": "XZC",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "27468522",
+      "name": "QTUM",
+      "font_class": "QTUM",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "27468523",
+      "name": "MONA",
+      "font_class": "MONA",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "27468524",
+      "name": "SAN",
+      "font_class": "SAN",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "27468525",
+      "name": "OMG",
+      "font_class": "OMG",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "27468526",
+      "name": "WAVES",
+      "font_class": "WAVES",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "27468527",
+      "name": "PPC",
+      "font_class": "PPC",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "27468528",
+      "name": "SYS",
+      "font_class": "SYS",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "27468529",
+      "name": "PIVX",
+      "font_class": "PIVX",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "27468530",
+      "name": "SKY",
+      "font_class": "SKY",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "27468531",
+      "name": "HSR",
+      "font_class": "HSR",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "27468532",
+      "name": "ZEN",
+      "font_class": "ZEN",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "27468533",
+      "name": "PPT",
+      "font_class": "PPT",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "27468534",
+      "name": "LTC",
+      "font_class": "LTC",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "27468535",
+      "name": "SALT",
+      "font_class": "SALT",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "27468536",
+      "name": "START",
+      "font_class": "START",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "27468537",
+      "name": "FCT",
+      "font_class": "FCT",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "27468538",
+      "name": "FUN",
+      "font_class": "FUN",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "27468539",
+      "name": "XRP",
+      "font_class": "XRP",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "27468540",
+      "name": "POWER",
+      "font_class": "POWER",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "27468541",
+      "name": "TRX",
+      "font_class": "TRX",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "27468542",
+      "name": "SC",
+      "font_class": "SC",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "27468543",
+      "name": "WTC",
+      "font_class": "WTC",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "27468544",
+      "name": "ZRX",
+      "font_class": "ZRX",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "27468545",
+      "name": "XLM",
+      "font_class": "XLM",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "27468546",
+      "name": "QASH",
+      "font_class": "QASH",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "27468547",
+      "name": "PURA",
+      "font_class": "PURA",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "27468548",
+      "name": "USDT",
+      "font_class": "USDT",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "27468549",
+      "name": "STORJ",
+      "font_class": "STORJ",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "27468550",
+      "name": "ZEC",
+      "font_class": "ZEC",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "27468551",
+      "name": "VTC",
+      "font_class": "VTC",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "27468552",
+      "name": "IOT",
+      "font_class": "IOT",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "15053896",
+      "name": "菜单",
+      "font_class": "24px",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "5203327",
+      "name": "方向-左",
+      "font_class": "zuo",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "15995154",
+      "name": "钱包",
+      "font_class": "qianbao",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "967627",
+      "name": "信息",
+      "font_class": "info1",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "11673571",
+      "name": "info",
+      "font_class": "info",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "6186662",
+      "name": "折线",
+      "font_class": "zhexian",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "2815733",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "15625591",
+      "name": "默认头像",
+      "font_class": "morentouxiangbeifen",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "17189475",
+      "name": "查关联",
+      "font_class": "chaguanlian",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "18165635",
+      "name": "复制比对,文件,文档",
+      "font_class": "copy-comparison",
+      "unicode": "e93b",
+      "unicode_decimal": 59707
+    },
+    {
+      "icon_id": "19255166",
+      "name": "点",
+      "font_class": "dian",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "4149550",
+      "name": "比特币符号jrit",
+      "font_class": "ziyuanjrit",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "340491",
+      "name": "向右",
+      "font_class": "xiangyou",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "17606326",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "5485672",
+      "name": "显示",
+      "font_class": "xianshi",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "6447209",
+      "name": "隐藏",
+      "font_class": "yincang",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "136419",
+      "name": "公文包",
+      "font_class": "iconfontcolor63",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "8871244",
+      "name": "工具",
+      "font_class": "gongju",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10341281",
+      "name": "安全",
+      "font_class": "anquan",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "16811577",
+      "name": "保险箱",
+      "font_class": "baoxianxiang",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "17102123",
+      "name": "联系",
+      "font_class": "lianxi",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "12380801",
+      "name": "world-flag_017-BHS--Bahamas",
+      "font_class": "world-flag_-BHS--Bahamas",
+      "unicode": "e893",
+      "unicode_decimal": 59539
+    },
+    {
+      "icon_id": "12380802",
+      "name": "world-flag_018-BHR--Bahrain",
+      "font_class": "world-flag_-BHR--Bahrain",
+      "unicode": "e894",
+      "unicode_decimal": 59540
+    },
+    {
+      "icon_id": "12380803",
+      "name": "world-flag_019-BGD--Bangladesh",
+      "font_class": "world-flag_-BGD--Bangladesh",
+      "unicode": "e895",
+      "unicode_decimal": 59541
+    },
+    {
+      "icon_id": "12380804",
+      "name": "world-flag_020-BRB--Barbados",
+      "font_class": "world-flag_-BRB--Barbados",
+      "unicode": "e896",
+      "unicode_decimal": 59542
+    },
+    {
+      "icon_id": "12380805",
+      "name": "world-flag_021-BLR--Belarus",
+      "font_class": "world-flag_-BLR--Belarus",
+      "unicode": "e897",
+      "unicode_decimal": 59543
+    },
+    {
+      "icon_id": "12380806",
+      "name": "world-flag_022-BEL--Belgium",
+      "font_class": "world-flag_-BEL--Belgium",
+      "unicode": "e898",
+      "unicode_decimal": 59544
+    },
+    {
+      "icon_id": "12380807",
+      "name": "world-flag_023-BLZ--Belize",
+      "font_class": "world-flag_-BLZ--Belize",
+      "unicode": "e899",
+      "unicode_decimal": 59545
+    },
+    {
+      "icon_id": "12380808",
+      "name": "world-flag_024-BEN--Benin",
+      "font_class": "world-flag_-BEN--Benin",
+      "unicode": "e89a",
+      "unicode_decimal": 59546
+    },
+    {
+      "icon_id": "12380809",
+      "name": "world-flag_025-BMU--Bermuda",
+      "font_class": "world-flag_-BMU--Bermuda",
+      "unicode": "e89b",
+      "unicode_decimal": 59547
+    },
+    {
+      "icon_id": "12380810",
+      "name": "world-flag_026-BTN--Bhutan",
+      "font_class": "world-flag_-BTN--Bhutan",
+      "unicode": "e89c",
+      "unicode_decimal": 59548
+    },
+    {
+      "icon_id": "12380811",
+      "name": "world-flag_027-BOL--Bolivia",
+      "font_class": "world-flag_-BOL--Bolivia",
+      "unicode": "e89d",
+      "unicode_decimal": 59549
+    },
+    {
+      "icon_id": "12380812",
+      "name": "world-flag_028-BIH--Bosnia and Herzegovina",
+      "font_class": "world-flag_-BIH--BosniaandHerzegovina",
+      "unicode": "e89e",
+      "unicode_decimal": 59550
+    },
+    {
+      "icon_id": "12380813",
+      "name": "world-flag_029-BWA--Botswana",
+      "font_class": "world-flag_-BWA--Botswana",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "12380814",
+      "name": "world-flag_030-BVT--Bouvet Island",
+      "font_class": "world-flag_-BVT--BouvetIsland",
+      "unicode": "e8a0",
+      "unicode_decimal": 59552
+    },
+    {
+      "icon_id": "12380816",
+      "name": "world-flag_031-BRA--Brazil",
+      "font_class": "world-flag_-BRA--Brazil",
+      "unicode": "e8a1",
+      "unicode_decimal": 59553
+    },
+    {
+      "icon_id": "12380817",
+      "name": "world-flag_032-VGB--British Virgin Islands",
+      "font_class": "world-flag_-VGB--BritishVirginIslands",
+      "unicode": "e8a2",
+      "unicode_decimal": 59554
+    },
+    {
+      "icon_id": "12380818",
+      "name": "world-flag_033-IOT--British Indian Ocean Territory",
+      "font_class": "world-flag_-IOT--BritishIndianOceanTerritory",
+      "unicode": "e8a3",
+      "unicode_decimal": 59555
+    },
+    {
+      "icon_id": "12380819",
+      "name": "world-flag_034-BRN--Brunei Darussalam",
+      "font_class": "world-flag_-BRN--BruneiDarussalam",
+      "unicode": "e8a4",
+      "unicode_decimal": 59556
+    },
+    {
+      "icon_id": "12380820",
+      "name": "world-flag_035-BGR--Bulgaria",
+      "font_class": "world-flag_-BGR--Bulgaria",
+      "unicode": "e8a5",
+      "unicode_decimal": 59557
+    },
+    {
+      "icon_id": "12380821",
+      "name": "world-flag_036-BFA--Burkina Faso",
+      "font_class": "world-flag_-BFA--BurkinaFaso",
+      "unicode": "e8a6",
+      "unicode_decimal": 59558
+    },
+    {
+      "icon_id": "12380822",
+      "name": "world-flag_037-BDI--Burundi",
+      "font_class": "world-flag_-BDI--Burundi",
+      "unicode": "e8a7",
+      "unicode_decimal": 59559
+    },
+    {
+      "icon_id": "12380823",
+      "name": "world-flag_039-CMR--Cameroon",
+      "font_class": "world-flag_-CMR--Cameroon",
+      "unicode": "e8a8",
+      "unicode_decimal": 59560
+    },
+    {
+      "icon_id": "12380824",
+      "name": "world-flag_038-KHM--Cambodia",
+      "font_class": "world-flag_-KHM--Cambodia",
+      "unicode": "e8a9",
+      "unicode_decimal": 59561
+    },
+    {
+      "icon_id": "12380825",
+      "name": "world-flag_040-CAN--Canada",
+      "font_class": "world-flag_-CAN--Canada",
+      "unicode": "e8aa",
+      "unicode_decimal": 59562
+    },
+    {
+      "icon_id": "12380826",
+      "name": "world-flag_041-CPV--Cape Verde",
+      "font_class": "world-flag_-CPV--CapeVerde",
+      "unicode": "e8ab",
+      "unicode_decimal": 59563
+    },
+    {
+      "icon_id": "12380827",
+      "name": "world-flag_042-BES--Caribbean Netherlands",
+      "font_class": "world-flag_-BES--CaribbeanNetherlands",
+      "unicode": "e8ac",
+      "unicode_decimal": 59564
+    },
+    {
+      "icon_id": "12380829",
+      "name": "world-flag_044-CAF--Central African Republic",
+      "font_class": "world-flag_-CAF--CentralAfricanRepublic",
+      "unicode": "e8ad",
+      "unicode_decimal": 59565
+    },
+    {
+      "icon_id": "12380830",
+      "name": "world-flag_045-TCD--Chad",
+      "font_class": "world-flag_-TCD--Chad",
+      "unicode": "e8ae",
+      "unicode_decimal": 59566
+    },
+    {
+      "icon_id": "12380831",
+      "name": "world-flag_043-CYM--Cayman Islands",
+      "font_class": "world-flag_-CYM--CaymanIslands",
+      "unicode": "e8af",
+      "unicode_decimal": 59567
+    },
+    {
+      "icon_id": "12380832",
+      "name": "world-flag_046-CHL--Chile",
+      "font_class": "world-flag_-CHL--Chile",
+      "unicode": "e8b0",
+      "unicode_decimal": 59568
+    },
+    {
+      "icon_id": "12380833",
+      "name": "world-flag_047-CHN--China",
+      "font_class": "world-flag_-CHN--China",
+      "unicode": "e8b1",
+      "unicode_decimal": 59569
+    },
+    {
+      "icon_id": "12380834",
+      "name": "world-flag_009-ATA--Antarctica",
+      "font_class": "world-flag_-ATA--Antarctica",
+      "unicode": "e8b2",
+      "unicode_decimal": 59570
+    },
+    {
+      "icon_id": "12380835",
+      "name": "world-flag_048-CXR--Christmas Island",
+      "font_class": "world-flag_-CXR--ChristmasIsland",
+      "unicode": "e8b3",
+      "unicode_decimal": 59571
+    },
+    {
+      "icon_id": "12380837",
+      "name": "world-flag_049-CCK--Cocos Keeling Islands",
+      "font_class": "world-flag_-CCK--CocosKeelingIslands",
+      "unicode": "e8b4",
+      "unicode_decimal": 59572
+    },
+    {
+      "icon_id": "12380838",
+      "name": "world-flag_051-COM--Comoros",
+      "font_class": "world-flag_-COM--Comoros",
+      "unicode": "e8b5",
+      "unicode_decimal": 59573
+    },
+    {
+      "icon_id": "12380839",
+      "name": "world-flag_050-COL--Colombia",
+      "font_class": "world-flag_-COL--Colombia",
+      "unicode": "e8b6",
+      "unicode_decimal": 59574
+    },
+    {
+      "icon_id": "12380840",
+      "name": "world-flag_052-COG--Congo Brazzaville",
+      "font_class": "world-flag_-COG--CongoBrazzaville",
+      "unicode": "e8b7",
+      "unicode_decimal": 59575
+    },
+    {
+      "icon_id": "12380841",
+      "name": "world-flag_053-COD--Congo Kinshasa",
+      "font_class": "world-flag_-COD--CongoKinshasa",
+      "unicode": "e8b8",
+      "unicode_decimal": 59576
+    },
+    {
+      "icon_id": "12380842",
+      "name": "world-flag_054-COK--Cook Islands",
+      "font_class": "world-flag_-COK--CookIslands",
+      "unicode": "e8b9",
+      "unicode_decimal": 59577
+    },
+    {
+      "icon_id": "12380843",
+      "name": "world-flag_055-CRI--Costa Rica",
+      "font_class": "world-flag_-CRI--CostaRica",
+      "unicode": "e8ba",
+      "unicode_decimal": 59578
+    },
+    {
+      "icon_id": "12380846",
+      "name": "world-flag_056-CIV--Côte d'Ivoire",
+      "font_class": "world-flag_-CIV--CtedIvoire",
+      "unicode": "e8bb",
+      "unicode_decimal": 59579
+    },
+    {
+      "icon_id": "12380847",
+      "name": "world-flag_058-CUB--Cuba",
+      "font_class": "world-flag_-CUB--Cuba",
+      "unicode": "e8bc",
+      "unicode_decimal": 59580
+    },
+    {
+      "icon_id": "12380848",
+      "name": "world-flag_057-HRV--Croatia",
+      "font_class": "world-flag_-HRV--Croatia",
+      "unicode": "e8bd",
+      "unicode_decimal": 59581
+    },
+    {
+      "icon_id": "12380849",
+      "name": "world-flag_059-CUW--Curaçao",
+      "font_class": "world-flag_-CUW--Curaao",
+      "unicode": "e8be",
+      "unicode_decimal": 59582
+    },
+    {
+      "icon_id": "12380850",
+      "name": "world-flag_060-CYP--Cyprus",
+      "font_class": "world-flag_-CYP--Cyprus",
+      "unicode": "e8bf",
+      "unicode_decimal": 59583
+    },
+    {
+      "icon_id": "12380851",
+      "name": "world-flag_061-CZE--Czech Republic",
+      "font_class": "world-flag_-CZE--CzechRepublic",
+      "unicode": "e8c0",
+      "unicode_decimal": 59584
+    },
+    {
+      "icon_id": "12380852",
+      "name": "world-flag_062-DNK--Denmark",
+      "font_class": "world-flag_-DNK--Denmark",
+      "unicode": "e8c1",
+      "unicode_decimal": 59585
+    },
+    {
+      "icon_id": "12380853",
+      "name": "world-flag_063-DJI--Djibouti",
+      "font_class": "world-flag_-DJI--Djibouti",
+      "unicode": "e8c2",
+      "unicode_decimal": 59586
+    },
+    {
+      "icon_id": "12380854",
+      "name": "world-flag_064-DMA--Dominica",
+      "font_class": "world-flag_-DMA--Dominica",
+      "unicode": "e8c3",
+      "unicode_decimal": 59587
+    },
+    {
+      "icon_id": "12380855",
+      "name": "world-flag_065-DOM--Dominican Republic",
+      "font_class": "world-flag_-DOM--DominicanRepublic",
+      "unicode": "e8c4",
+      "unicode_decimal": 59588
+    },
+    {
+      "icon_id": "12380856",
+      "name": "world-flag_066-ECU--Ecuador",
+      "font_class": "world-flag_-ECU--Ecuador",
+      "unicode": "e8c5",
+      "unicode_decimal": 59589
+    },
+    {
+      "icon_id": "12380857",
+      "name": "world-flag_067-EGY--Egypt",
+      "font_class": "world-flag_-EGY--Egypt",
+      "unicode": "e8c6",
+      "unicode_decimal": 59590
+    },
+    {
+      "icon_id": "12380858",
+      "name": "world-flag_068-SLV--El Salvador",
+      "font_class": "world-flag_-SLV--ElSalvador",
+      "unicode": "e8c7",
+      "unicode_decimal": 59591
+    },
+    {
+      "icon_id": "12380859",
+      "name": "world-flag_069-GB-ENG--England",
+      "font_class": "world-flag_-GB-ENG--England",
+      "unicode": "e8c8",
+      "unicode_decimal": 59592
+    },
+    {
+      "icon_id": "12380860",
+      "name": "world-flag_070-GNQ--Equatorial Guinea",
+      "font_class": "world-flag_-GNQ--EquatorialGuinea",
+      "unicode": "e8c9",
+      "unicode_decimal": 59593
+    },
+    {
+      "icon_id": "12380861",
+      "name": "world-flag_071-ERI--Eritrea",
+      "font_class": "world-flag_-ERI--Eritrea",
+      "unicode": "e8ca",
+      "unicode_decimal": 59594
+    },
+    {
+      "icon_id": "12380862",
+      "name": "world-flag_072-EST--Estonia",
+      "font_class": "world-flag_-EST--Estonia",
+      "unicode": "e8cb",
+      "unicode_decimal": 59595
+    },
+    {
+      "icon_id": "12380863",
+      "name": "world-flag_073-ETH--Ethiopia",
+      "font_class": "world-flag_-ETH--Ethiopia",
+      "unicode": "e8cc",
+      "unicode_decimal": 59596
+    },
+    {
+      "icon_id": "12380864",
+      "name": "world-flag_074-FLK--Falkland Islands Malvinas",
+      "font_class": "world-flag_-FLK--FalklandIslandsMalvinas",
+      "unicode": "e8cd",
+      "unicode_decimal": 59597
+    },
+    {
+      "icon_id": "12380865",
+      "name": "world-flag_075-FRO--Faroe Islands",
+      "font_class": "world-flag_-FRO--FaroeIslands",
+      "unicode": "e8ce",
+      "unicode_decimal": 59598
+    },
+    {
+      "icon_id": "12380866",
+      "name": "world-flag_078-FRA--France",
+      "font_class": "world-flag_-FRA--France",
+      "unicode": "e8cf",
+      "unicode_decimal": 59599
+    },
+    {
+      "icon_id": "12380867",
+      "name": "world-flag_076-FJI--Fiji",
+      "font_class": "world-flag_-FJI--Fiji",
+      "unicode": "e8d0",
+      "unicode_decimal": 59600
+    },
+    {
+      "icon_id": "12380868",
+      "name": "world-flag_077-FIN--Finland",
+      "font_class": "world-flag_-FIN--Finland",
+      "unicode": "e8d1",
+      "unicode_decimal": 59601
+    },
+    {
+      "icon_id": "12380869",
+      "name": "world-flag_080-PYF--French Polynesia",
+      "font_class": "world-flag_-PYF--FrenchPolynesia",
+      "unicode": "e8d2",
+      "unicode_decimal": 59602
+    },
+    {
+      "icon_id": "12380870",
+      "name": "world-flag_079-GUF--French Guiana",
+      "font_class": "world-flag_-GUF--FrenchGuiana",
+      "unicode": "e8d3",
+      "unicode_decimal": 59603
+    },
+    {
+      "icon_id": "12380871",
+      "name": "world-flag_081-ATF--French Southern Territories",
+      "font_class": "world-flag_-ATF--FrenchSouthernTerritories",
+      "unicode": "e8d4",
+      "unicode_decimal": 59604
+    },
+    {
+      "icon_id": "12380872",
+      "name": "world-flag_082-GAB--Gabon",
+      "font_class": "world-flag_-GAB--Gabon",
+      "unicode": "e8d5",
+      "unicode_decimal": 59605
+    },
+    {
+      "icon_id": "12380873",
+      "name": "world-flag_083-GMB--Gambia",
+      "font_class": "world-flag_-GMB--Gambia",
+      "unicode": "e8d6",
+      "unicode_decimal": 59606
+    },
+    {
+      "icon_id": "12380874",
+      "name": "world-flag_084-GEO--Georgia",
+      "font_class": "world-flag_-GEO--Georgia",
+      "unicode": "e8d7",
+      "unicode_decimal": 59607
+    },
+    {
+      "icon_id": "12380875",
+      "name": "world-flag_085-DEU--Germany",
+      "font_class": "world-flag_-DEU--Germany",
+      "unicode": "e8d8",
+      "unicode_decimal": 59608
+    },
+    {
+      "icon_id": "12380877",
+      "name": "world-flag_086-GHA--Ghana",
+      "font_class": "world-flag_-GHA--Ghana",
+      "unicode": "e8d9",
+      "unicode_decimal": 59609
+    },
+    {
+      "icon_id": "12380878",
+      "name": "world-flag_087-GIB--Gibraltar",
+      "font_class": "world-flag_-GIB--Gibraltar",
+      "unicode": "e8da",
+      "unicode_decimal": 59610
+    },
+    {
+      "icon_id": "12380879",
+      "name": "world-flag_088-GRC--Greece",
+      "font_class": "world-flag_-GRC--Greece",
+      "unicode": "e8db",
+      "unicode_decimal": 59611
+    },
+    {
+      "icon_id": "12380880",
+      "name": "world-flag_089-GRL--Greenland",
+      "font_class": "world-flag_-GRL--Greenland",
+      "unicode": "e8dc",
+      "unicode_decimal": 59612
+    },
+    {
+      "icon_id": "12380882",
+      "name": "world-flag_090-GRD--Grenada",
+      "font_class": "world-flag_-GRD--Grenada",
+      "unicode": "e8dd",
+      "unicode_decimal": 59613
+    },
+    {
+      "icon_id": "12380883",
+      "name": "world-flag_092-GTM--Guatemala",
+      "font_class": "world-flag_-GTM--Guatemala",
+      "unicode": "e8de",
+      "unicode_decimal": 59614
+    },
+    {
+      "icon_id": "12380884",
+      "name": "world-flag_093-GGY--Guernsey",
+      "font_class": "world-flag_-GGY--Guernsey",
+      "unicode": "e8df",
+      "unicode_decimal": 59615
+    },
+    {
+      "icon_id": "12380885",
+      "name": "world-flag_091-GUM--Guam",
+      "font_class": "world-flag_-GUM--Guam",
+      "unicode": "e8e0",
+      "unicode_decimal": 59616
+    },
+    {
+      "icon_id": "12380886",
+      "name": "world-flag_094-GIN--Guinea",
+      "font_class": "world-flag_-GIN--Guinea",
+      "unicode": "e8e1",
+      "unicode_decimal": 59617
+    },
+    {
+      "icon_id": "12380887",
+      "name": "world-flag_095-GNB--Guinea Bissau",
+      "font_class": "world-flag_-GNB--GuineaBissau",
+      "unicode": "e8e2",
+      "unicode_decimal": 59618
+    },
+    {
+      "icon_id": "12380888",
+      "name": "world-flag_096-GUY--Guyana",
+      "font_class": "world-flag_-GUY--Guyana",
+      "unicode": "e8e3",
+      "unicode_decimal": 59619
+    },
+    {
+      "icon_id": "12380889",
+      "name": "world-flag_097-HTI--Haiti",
+      "font_class": "world-flag_-HTI--Haiti",
+      "unicode": "e8e4",
+      "unicode_decimal": 59620
+    },
+    {
+      "icon_id": "12380890",
+      "name": "world-flag_098-HMD--Heard and Mcdonald Islands",
+      "font_class": "world-flag_-HMD--HeardandMcdonaldIslands",
+      "unicode": "e8e5",
+      "unicode_decimal": 59621
+    },
+    {
+      "icon_id": "12380891",
+      "name": "world-flag_099-VAT--Holy See Vatican City State",
+      "font_class": "world-flag_-VAT--HolySeeVaticanCityState",
+      "unicode": "e8e6",
+      "unicode_decimal": 59622
+    },
+    {
+      "icon_id": "12380892",
+      "name": "world-flag_100-HND--Honduras",
+      "font_class": "world-flag_-HND--Honduras",
+      "unicode": "e8e7",
+      "unicode_decimal": 59623
+    },
+    {
+      "icon_id": "12380893",
+      "name": "world-flag_101-HKG--Hong Kong SAR China",
+      "font_class": "world-flag_-HKG--HongKongSARChina",
+      "unicode": "e8e8",
+      "unicode_decimal": 59624
+    },
+    {
+      "icon_id": "12380894",
+      "name": "world-flag_102-HUN--Hungary",
+      "font_class": "world-flag_-HUN--Hungary",
+      "unicode": "e8e9",
+      "unicode_decimal": 59625
+    },
+    {
+      "icon_id": "12380895",
+      "name": "world-flag_103-ISL--Iceland",
+      "font_class": "world-flag_-ISL--Iceland",
+      "unicode": "e8ea",
+      "unicode_decimal": 59626
+    },
+    {
+      "icon_id": "12380896",
+      "name": "world-flag_104-IND--India",
+      "font_class": "world-flag_-IND--India",
+      "unicode": "e8eb",
+      "unicode_decimal": 59627
+    },
+    {
+      "icon_id": "12380897",
+      "name": "world-flag_105-IDN--Indonesia",
+      "font_class": "world-flag_-IDN--Indonesia",
+      "unicode": "e8ec",
+      "unicode_decimal": 59628
+    },
+    {
+      "icon_id": "12380898",
+      "name": "world-flag_108-IRL--Ireland",
+      "font_class": "world-flag_-IRL--Ireland",
+      "unicode": "e8ed",
+      "unicode_decimal": 59629
+    },
+    {
+      "icon_id": "12380899",
+      "name": "world-flag_106-IRN--Iran Islamic Republic of",
+      "font_class": "world-flag_-IRN--IranIslamicRepublicof",
+      "unicode": "e8ee",
+      "unicode_decimal": 59630
+    },
+    {
+      "icon_id": "12380900",
+      "name": "world-flag_107-IRQ--Iraq",
+      "font_class": "world-flag_-IRQ--Iraq",
+      "unicode": "e8ef",
+      "unicode_decimal": 59631
+    },
+    {
+      "icon_id": "12380901",
+      "name": "world-flag_109-IMN--Isle of Man",
+      "font_class": "world-flag_-IMN--IsleofMan",
+      "unicode": "e8f0",
+      "unicode_decimal": 59632
+    },
+    {
+      "icon_id": "12380902",
+      "name": "world-flag_110-ISR--Israel",
+      "font_class": "world-flag_-ISR--Israel",
+      "unicode": "e8f1",
+      "unicode_decimal": 59633
+    },
+    {
+      "icon_id": "12380903",
+      "name": "world-flag_111-ITA--Italy",
+      "font_class": "world-flag_-ITA--Italy",
+      "unicode": "e8f2",
+      "unicode_decimal": 59634
+    },
+    {
+      "icon_id": "12380905",
+      "name": "world-flag_112-JAM--Jamaica",
+      "font_class": "world-flag_-JAM--Jamaica",
+      "unicode": "e8f3",
+      "unicode_decimal": 59635
+    },
+    {
+      "icon_id": "12380906",
+      "name": "world-flag_113-JPN--Japan",
+      "font_class": "world-flag_-JPN--Japan",
+      "unicode": "e8f4",
+      "unicode_decimal": 59636
+    },
+    {
+      "icon_id": "12380907",
+      "name": "world-flag_114-JEY--Jersey",
+      "font_class": "world-flag_-JEY--Jersey",
+      "unicode": "e8f5",
+      "unicode_decimal": 59637
+    },
+    {
+      "icon_id": "12380908",
+      "name": "world-flag_115-JOR--Jordan",
+      "font_class": "world-flag_-JOR--Jordan",
+      "unicode": "e8f6",
+      "unicode_decimal": 59638
+    },
+    {
+      "icon_id": "12380909",
+      "name": "world-flag_117-KEN--Kenya",
+      "font_class": "world-flag_-KEN--Kenya",
+      "unicode": "e8f7",
+      "unicode_decimal": 59639
+    },
+    {
+      "icon_id": "12380910",
+      "name": "world-flag_116-KAZ--Kazakhstan",
+      "font_class": "world-flag_-KAZ--Kazakhstan",
+      "unicode": "e8f8",
+      "unicode_decimal": 59640
+    },
+    {
+      "icon_id": "12380911",
+      "name": "world-flag_118-KIR--Kiribati",
+      "font_class": "world-flag_-KIR--Kiribati",
+      "unicode": "e8f9",
+      "unicode_decimal": 59641
+    },
+    {
+      "icon_id": "12380912",
+      "name": "world-flag_119-PRK--Korea North",
+      "font_class": "world-flag_-PRK--KoreaNorth",
+      "unicode": "e8fa",
+      "unicode_decimal": 59642
+    },
+    {
+      "icon_id": "12380913",
+      "name": "world-flag_120-KOR--Korea South",
+      "font_class": "world-flag_-KOR--KoreaSouth",
+      "unicode": "e8fb",
+      "unicode_decimal": 59643
+    },
+    {
+      "icon_id": "12380914",
+      "name": "world-flag_121-XKX--Kosovo",
+      "font_class": "world-flag_-XKX--Kosovo",
+      "unicode": "e8fc",
+      "unicode_decimal": 59644
+    },
+    {
+      "icon_id": "12380915",
+      "name": "world-flag_122-KWT--Kuwait",
+      "font_class": "world-flag_-KWT--Kuwait",
+      "unicode": "e8fd",
+      "unicode_decimal": 59645
+    },
+    {
+      "icon_id": "12380916",
+      "name": "world-flag_123-KGZ--Kyrgyzstan",
+      "font_class": "world-flag_-KGZ--Kyrgyzstan",
+      "unicode": "e8fe",
+      "unicode_decimal": 59646
+    },
+    {
+      "icon_id": "12380917",
+      "name": "world-flag_124-LAO--Laos PDR",
+      "font_class": "world-flag_-LAO--LaosPDR",
+      "unicode": "e8ff",
+      "unicode_decimal": 59647
+    },
+    {
+      "icon_id": "12380918",
+      "name": "world-flag_125-LVA--Latvia",
+      "font_class": "world-flag_-LVA--Latvia",
+      "unicode": "e900",
+      "unicode_decimal": 59648
+    },
+    {
+      "icon_id": "12380919",
+      "name": "world-flag_126-LBN--Lebanon",
+      "font_class": "world-flag_-LBN--Lebanon",
+      "unicode": "e901",
+      "unicode_decimal": 59649
+    },
+    {
+      "icon_id": "12380920",
+      "name": "world-flag_127-LSO--Lesotho",
+      "font_class": "world-flag_-LSO--Lesotho",
+      "unicode": "e902",
+      "unicode_decimal": 59650
+    },
+    {
+      "icon_id": "12380921",
+      "name": "world-flag_128-LBR--Liberia",
+      "font_class": "world-flag_-LBR--Liberia",
+      "unicode": "e903",
+      "unicode_decimal": 59651
+    },
+    {
+      "icon_id": "12380922",
+      "name": "world-flag_129-LBY--Libya",
+      "font_class": "world-flag_-LBY--Libya",
+      "unicode": "e904",
+      "unicode_decimal": 59652
+    },
+    {
+      "icon_id": "12380923",
+      "name": "world-flag_130-LIE--Liechtenstein",
+      "font_class": "world-flag_-LIE--Liechtenstein",
+      "unicode": "e905",
+      "unicode_decimal": 59653
+    },
+    {
+      "icon_id": "12380924",
+      "name": "world-flag_131-LTU--Lithuania",
+      "font_class": "world-flag_-LTU--Lithuania",
+      "unicode": "e906",
+      "unicode_decimal": 59654
+    },
+    {
+      "icon_id": "12380925",
+      "name": "world-flag_132-LUX--Luxembourg",
+      "font_class": "world-flag_-LUX--Luxembourg",
+      "unicode": "e907",
+      "unicode_decimal": 59655
+    },
+    {
+      "icon_id": "12380926",
+      "name": "world-flag_133-MAC--Macao SAR China",
+      "font_class": "world-flag_-MAC--MacaoSARChina",
+      "unicode": "e908",
+      "unicode_decimal": 59656
+    },
+    {
+      "icon_id": "12380927",
+      "name": "world-flag_134-MKD--Macedonia Republic of",
+      "font_class": "world-flag_-MKD--MacedoniaRepublicof",
+      "unicode": "e909",
+      "unicode_decimal": 59657
+    },
+    {
+      "icon_id": "12380928",
+      "name": "world-flag_135-MDG--Madagascar",
+      "font_class": "world-flag_-MDG--Madagascar",
+      "unicode": "e90a",
+      "unicode_decimal": 59658
+    },
+    {
+      "icon_id": "12380929",
+      "name": "world-flag_136-MWI--Malawi",
+      "font_class": "world-flag_-MWI--Malawi",
+      "unicode": "e90b",
+      "unicode_decimal": 59659
+    },
+    {
+      "icon_id": "12380930",
+      "name": "world-flag_138-MDV--Maldives",
+      "font_class": "world-flag_-MDV--Maldives",
+      "unicode": "e90c",
+      "unicode_decimal": 59660
+    },
+    {
+      "icon_id": "12380931",
+      "name": "world-flag_137-MYS--Malaysia",
+      "font_class": "world-flag_-MYS--Malaysia",
+      "unicode": "e90d",
+      "unicode_decimal": 59661
+    },
+    {
+      "icon_id": "12380932",
+      "name": "world-flag_139-MLI--Mali",
+      "font_class": "world-flag_-MLI--Mali",
+      "unicode": "e90e",
+      "unicode_decimal": 59662
+    },
+    {
+      "icon_id": "12380933",
+      "name": "world-flag_140-MLT--Malta",
+      "font_class": "world-flag_-MLT--Malta",
+      "unicode": "e90f",
+      "unicode_decimal": 59663
+    },
+    {
+      "icon_id": "12380934",
+      "name": "world-flag_141-MHL--Marshall Islands",
+      "font_class": "world-flag_-MHL--MarshallIslands",
+      "unicode": "e910",
+      "unicode_decimal": 59664
+    },
+    {
+      "icon_id": "12380935",
+      "name": "world-flag_142-MTQ--Martinique",
+      "font_class": "world-flag_-MTQ--Martinique",
+      "unicode": "e911",
+      "unicode_decimal": 59665
+    },
+    {
+      "icon_id": "12380936",
+      "name": "world-flag_143-MRT--Mauritania",
+      "font_class": "world-flag_-MRT--Mauritania",
+      "unicode": "e912",
+      "unicode_decimal": 59666
+    },
+    {
+      "icon_id": "12380937",
+      "name": "world-flag_144-MUS--Mauritius",
+      "font_class": "world-flag_-MUS--Mauritius",
+      "unicode": "e913",
+      "unicode_decimal": 59667
+    },
+    {
+      "icon_id": "12380938",
+      "name": "world-flag_145-MYT--Mayotte",
+      "font_class": "world-flag_-MYT--Mayotte",
+      "unicode": "e914",
+      "unicode_decimal": 59668
+    },
+    {
+      "icon_id": "12380939",
+      "name": "world-flag_146-MEX--Mexico",
+      "font_class": "world-flag_-MEX--Mexico",
+      "unicode": "e915",
+      "unicode_decimal": 59669
+    },
+    {
+      "icon_id": "12380940",
+      "name": "world-flag_147-FSM--Micronesia Federated States of",
+      "font_class": "world-flag_-FSM--MicronesiaFederatedStatesof",
+      "unicode": "e916",
+      "unicode_decimal": 59670
+    },
+    {
+      "icon_id": "12380941",
+      "name": "world-flag_148-MDA--Moldova",
+      "font_class": "world-flag_-MDA--Moldova",
+      "unicode": "e917",
+      "unicode_decimal": 59671
+    },
+    {
+      "icon_id": "12380942",
+      "name": "world-flag_149-MCO--Monaco",
+      "font_class": "world-flag_-MCO--Monaco",
+      "unicode": "e918",
+      "unicode_decimal": 59672
+    },
+    {
+      "icon_id": "12380944",
+      "name": "world-flag_150-MNG--Mongolia",
+      "font_class": "world-flag_-MNG--Mongolia",
+      "unicode": "e919",
+      "unicode_decimal": 59673
+    },
+    {
+      "icon_id": "12380945",
+      "name": "world-flag_151-MNE--Montenegro",
+      "font_class": "world-flag_-MNE--Montenegro",
+      "unicode": "e91a",
+      "unicode_decimal": 59674
+    },
+    {
+      "icon_id": "12380946",
+      "name": "world-flag_152-MSR--Montserrat",
+      "font_class": "world-flag_-MSR--Montserrat",
+      "unicode": "e91b",
+      "unicode_decimal": 59675
+    },
+    {
+      "icon_id": "12380947",
+      "name": "world-flag_153-MAR--Morocco",
+      "font_class": "world-flag_-MAR--Morocco",
+      "unicode": "e91c",
+      "unicode_decimal": 59676
+    },
+    {
+      "icon_id": "12380948",
+      "name": "world-flag_154-MOZ--Mozambique",
+      "font_class": "world-flag_-MOZ--Mozambique",
+      "unicode": "e91d",
+      "unicode_decimal": 59677
+    },
+    {
+      "icon_id": "12380949",
+      "name": "world-flag_155-MMR--Myanmar",
+      "font_class": "world-flag_-MMR--Myanmar",
+      "unicode": "e91e",
+      "unicode_decimal": 59678
+    },
+    {
+      "icon_id": "12380950",
+      "name": "world-flag_156-NAM--Namibia",
+      "font_class": "world-flag_-NAM--Namibia",
+      "unicode": "e91f",
+      "unicode_decimal": 59679
+    },
+    {
+      "icon_id": "28285289",
+      "name": "美国",
+      "font_class": "meiguo--copy",
+      "unicode": "e93c",
+      "unicode_decimal": 59708
+    },
+    {
+      "icon_id": "12380952",
+      "name": "world-flag_158-NPL--Nepal",
+      "font_class": "world-flag_-NPL--Nepal",
+      "unicode": "e920",
+      "unicode_decimal": 59680
+    },
+    {
+      "icon_id": "12380953",
+      "name": "world-flag_157-NRU--Nauru",
+      "font_class": "world-flag_-NRU--Nauru",
+      "unicode": "e921",
+      "unicode_decimal": 59681
+    },
+    {
+      "icon_id": "12380954",
+      "name": "world-flag_160-ANT--Netherlands Antilles",
+      "font_class": "world-flag_-ANT--NetherlandsAntilles",
+      "unicode": "e922",
+      "unicode_decimal": 59682
+    },
+    {
+      "icon_id": "12380955",
+      "name": "world-flag_161-NCL--New Caledonia",
+      "font_class": "world-flag_-NCL--NewCaledonia",
+      "unicode": "e923",
+      "unicode_decimal": 59683
+    },
+    {
+      "icon_id": "12380956",
+      "name": "world-flag_159-NLD--Netherlands",
+      "font_class": "world-flag_-NLD--Netherlands",
+      "unicode": "e924",
+      "unicode_decimal": 59684
+    },
+    {
+      "icon_id": "12380958",
+      "name": "world-flag_162-NZL--New Zealand",
+      "font_class": "world-flag_-NZL--NewZealand",
+      "unicode": "e925",
+      "unicode_decimal": 59685
+    },
+    {
+      "icon_id": "12380959",
+      "name": "world-flag_163-NIC--Nicaragua",
+      "font_class": "world-flag_-NIC--Nicaragua",
+      "unicode": "e926",
+      "unicode_decimal": 59686
+    },
+    {
+      "icon_id": "12380960",
+      "name": "world-flag_164-NER--Niger",
+      "font_class": "world-flag_-NER--Niger",
+      "unicode": "e927",
+      "unicode_decimal": 59687
+    },
+    {
+      "icon_id": "12380961",
+      "name": "world-flag_166-NIU--Niue",
+      "font_class": "world-flag_-NIU--Niue",
+      "unicode": "e928",
+      "unicode_decimal": 59688
+    },
+    {
+      "icon_id": "12380962",
+      "name": "world-flag_165-NGA--Nigeria",
+      "font_class": "world-flag_-NGA--Nigeria",
+      "unicode": "e929",
+      "unicode_decimal": 59689
+    },
+    {
+      "icon_id": "12380963",
+      "name": "world-flag_168-MNP--Northern Mariana Islands",
+      "font_class": "world-flag_-MNP--NorthernMarianaIslands",
+      "unicode": "e92a",
+      "unicode_decimal": 59690
+    },
+    {
+      "icon_id": "12380964",
+      "name": "world-flag_167-NFK--Norfolk Island",
+      "font_class": "world-flag_-NFK--NorfolkIsland",
+      "unicode": "e92b",
+      "unicode_decimal": 59691
+    },
+    {
+      "icon_id": "12380965",
+      "name": "world-flag_169-GB-NIR--Northern Ireland",
+      "font_class": "world-flag_-GB-NIR--NorthernIreland",
+      "unicode": "e92c",
+      "unicode_decimal": 59692
+    },
+    {
+      "icon_id": "12380966",
+      "name": "world-flag_170-NOR--Norway",
+      "font_class": "world-flag_-NOR--Norway",
+      "unicode": "e92d",
+      "unicode_decimal": 59693
+    },
+    {
+      "icon_id": "12380967",
+      "name": "world-flag_171-OMN--Oman",
+      "font_class": "world-flag_-OMN--Oman",
+      "unicode": "e92e",
+      "unicode_decimal": 59694
+    },
+    {
+      "icon_id": "12380968",
+      "name": "world-flag_172-PAK--Pakistan",
+      "font_class": "world-flag_-PAK--Pakistan",
+      "unicode": "e92f",
+      "unicode_decimal": 59695
+    },
+    {
+      "icon_id": "12380969",
+      "name": "world-flag_173-PLW--Palau",
+      "font_class": "world-flag_-PLW--Palau",
+      "unicode": "e930",
+      "unicode_decimal": 59696
+    },
+    {
+      "icon_id": "12380970",
+      "name": "world-flag_174-PSE--Palestinian Territory",
+      "font_class": "world-flag_-PSE--PalestinianTerritory",
+      "unicode": "e931",
+      "unicode_decimal": 59697
+    },
+    {
+      "icon_id": "12380971",
+      "name": "world-flag_175-PAN--Panama",
+      "font_class": "world-flag_-PAN--Panama",
+      "unicode": "e932",
+      "unicode_decimal": 59698
+    },
+    {
+      "icon_id": "12380972",
+      "name": "world-flag_176-PNG--Papua New Guinea",
+      "font_class": "world-flag_-PNG--PapuaNewGuinea",
+      "unicode": "e933",
+      "unicode_decimal": 59699
+    },
+    {
+      "icon_id": "12380973",
+      "name": "world-flag_177-PRY--Paraguay",
+      "font_class": "world-flag_-PRY--Paraguay",
+      "unicode": "e934",
+      "unicode_decimal": 59700
+    },
+    {
+      "icon_id": "12380974",
+      "name": "world-flag_178-PER--Peru",
+      "font_class": "world-flag_-PER--Peru",
+      "unicode": "e935",
+      "unicode_decimal": 59701
+    },
+    {
+      "icon_id": "12380975",
+      "name": "world-flag_179-PHL--Philippines",
+      "font_class": "world-flag_-PHL--Philippines",
+      "unicode": "e936",
+      "unicode_decimal": 59702
+    },
+    {
+      "icon_id": "12380976",
+      "name": "world-flag_181-POL--Poland",
+      "font_class": "world-flag_-POL--Poland",
+      "unicode": "e937",
+      "unicode_decimal": 59703
+    },
+    {
+      "icon_id": "12380977",
+      "name": "world-flag_182-PRT--Portugal",
+      "font_class": "world-flag_-PRT--Portugal",
+      "unicode": "e938",
+      "unicode_decimal": 59704
+    },
+    {
+      "icon_id": "12380978",
+      "name": "world-flag_180-PCN--Pitcairn",
+      "font_class": "world-flag_-PCN--Pitcairn",
+      "unicode": "e939",
+      "unicode_decimal": 59705
+    },
+    {
+      "icon_id": "12380980",
+      "name": "world-flag_183-PRI--Puerto Rico",
+      "font_class": "world-flag_-PRI--PuertoRico",
+      "unicode": "e93a",
+      "unicode_decimal": 59706
+    },
+    {
+      "icon_id": "18072139",
+      "name": "法国",
+      "font_class": "faguo",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "20497823",
+      "name": "中国",
+      "font_class": "China",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "28285326",
+      "name": "美国",
+      "font_class": "USD",
+      "unicode": "e93d",
+      "unicode_decimal": 59709
+    },
+    {
+      "icon_id": "9086130",
+      "name": "美国",
+      "font_class": "meiguo-",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "12380784",
+      "name": "国旗-圆形",
+      "font_class": "world-flag_-AFG--Afghanistan",
+      "unicode": "e884",
+      "unicode_decimal": 59524
+    },
+    {
+      "icon_id": "12380785",
+      "name": "world-flag_002-ALA--Aland Islands",
+      "font_class": "world-flag_-ALA--AlandIslands",
+      "unicode": "e885",
+      "unicode_decimal": 59525
+    },
+    {
+      "icon_id": "12380786",
+      "name": "world-flag_003-ALB--Albania",
+      "font_class": "world-flag_-ALB--Albania",
+      "unicode": "e886",
+      "unicode_decimal": 59526
+    },
+    {
+      "icon_id": "12380787",
+      "name": "world-flag_004-DZA--Algeria",
+      "font_class": "world-flag_-DZA--Algeria",
+      "unicode": "e887",
+      "unicode_decimal": 59527
+    },
+    {
+      "icon_id": "12380788",
+      "name": "world-flag_005-ASM--American Samoa",
+      "font_class": "world-flag_-ASM--AmericanSamoa",
+      "unicode": "e888",
+      "unicode_decimal": 59528
+    },
+    {
+      "icon_id": "12380789",
+      "name": "world-flag_007-AGO--Angola",
+      "font_class": "world-flag_-AGO--Angola",
+      "unicode": "e889",
+      "unicode_decimal": 59529
+    },
+    {
+      "icon_id": "12380790",
+      "name": "world-flag_006-AND--Andorra",
+      "font_class": "world-flag_-AND--Andorra",
+      "unicode": "e88a",
+      "unicode_decimal": 59530
+    },
+    {
+      "icon_id": "12380791",
+      "name": "world-flag_008-AIA--Anguilla",
+      "font_class": "world-flag_-AIA--Anguilla",
+      "unicode": "e88b",
+      "unicode_decimal": 59531
+    },
+    {
+      "icon_id": "12380792",
+      "name": "world-flag_010-ATG--Antigua and Barbuda",
+      "font_class": "world-flag_-ATG--AntiguaandBarbuda",
+      "unicode": "e88c",
+      "unicode_decimal": 59532
+    },
+    {
+      "icon_id": "12380794",
+      "name": "world-flag_011-ARG--Argentina",
+      "font_class": "world-flag_-ARG--Argentina",
+      "unicode": "e88d",
+      "unicode_decimal": 59533
+    },
+    {
+      "icon_id": "12380795",
+      "name": "world-flag_012-ARM--Armenia",
+      "font_class": "world-flag_-ARM--Armenia",
+      "unicode": "e88e",
+      "unicode_decimal": 59534
+    },
+    {
+      "icon_id": "12380796",
+      "name": "world-flag_013-ABW--Aruba",
+      "font_class": "world-flag_-ABW--Aruba",
+      "unicode": "e88f",
+      "unicode_decimal": 59535
+    },
+    {
+      "icon_id": "12380797",
+      "name": "world-flag_014-AUS--Australia",
+      "font_class": "world-flag_-AUS--Australia",
+      "unicode": "e890",
+      "unicode_decimal": 59536
+    },
+    {
+      "icon_id": "12380798",
+      "name": "world-flag_015-AUT--Austria",
+      "font_class": "world-flag_-AUT--Austria",
+      "unicode": "e891",
+      "unicode_decimal": 59537
+    },
+    {
+      "icon_id": "12380799",
+      "name": "world-flag_016-AZE--Azerbaijan",
+      "font_class": "world-flag_-AZE--Azerbaijan",
+      "unicode": "e892",
+      "unicode_decimal": 59538
+    },
+    {
+      "icon_id": "7594113",
+      "name": "三个点",
+      "font_class": "caidan-dian",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "688062",
+      "name": "地球 全球",
+      "font_class": "diqiuquanqiu",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    },
+    {
+      "icon_id": "14986",
+      "name": "银行卡",
+      "font_class": "yinxingqia",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1927581",
+      "name": "操作-翻译",
+      "font_class": "fanyi",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "15559716",
+      "name": "比特币",
+      "font_class": "shejiaotubiao-69",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "15816637",
+      "name": "004耳机-2",
+      "font_class": "004erji-2",
+      "unicode": "e80d",
+      "unicode_decimal": 59405
+    }
+  ]
+}

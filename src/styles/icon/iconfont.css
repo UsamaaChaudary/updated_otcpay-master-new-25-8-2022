@@ -1,0 +1,1239 @@
+@font-face {
+  font-family: "wallet"; /* Project id 2533195 */
+  src: url('iconfont.woff2?t=1647482134358') format('woff2'),
+       url('iconfont.woff?t=1647482134358') format('woff'),
+       url('iconfont.ttf?t=1647482134358') format('truetype');
+}
+
+.wallet {
+  font-family: "wallet" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wallet-GBP:before {
+  content: "\e60a";
+}
+
+.wallet-EUR:before {
+  content: "\e67f";
+}
+
+.wallet-AUD:before {
+  content: "\e60c";
+}
+
+.wallet-ARDR:before {
+  content: "\e61b";
+}
+
+.wallet-BLOCK:before {
+  content: "\e61c";
+}
+
+.wallet-ARK:before {
+  content: "\e61d";
+}
+
+.wallet-BNT:before {
+  content: "\e61f";
+}
+
+.wallet-BCC:before {
+  content: "\e620";
+}
+
+.wallet-ADX:before {
+  content: "\e621";
+}
+
+.wallet-DOGE:before {
+  content: "\e622";
+}
+
+.wallet-ICN:before {
+  content: "\e623";
+}
+
+.wallet-DASH:before {
+  content: "\e624";
+}
+
+.wallet-AE:before {
+  content: "\e626";
+}
+
+.wallet-BTC:before {
+  content: "\e627";
+}
+
+.wallet-BCN:before {
+  content: "\e629";
+}
+
+.wallet-BCH:before {
+  content: "\e62a";
+}
+
+.wallet-GBYTE:before {
+  content: "\e62b";
+}
+
+.wallet-BNB:before {
+  content: "\e62c";
+}
+
+.wallet-ETH:before {
+  content: "\e62d";
+}
+
+.wallet-BTCD:before {
+  content: "\e62e";
+}
+
+.wallet-BTM:before {
+  content: "\e630";
+}
+
+.wallet-DGB:before {
+  content: "\e631";
+}
+
+.wallet-DCR:before {
+  content: "\e632";
+}
+
+.wallet-BTS:before {
+  content: "\e633";
+}
+
+.wallet-MTL:before {
+  content: "\e634";
+}
+
+.wallet-ETC:before {
+  content: "\e635";
+}
+
+.wallet-EMC2:before {
+  content: "\e636";
+}
+
+.wallet-KMD:before {
+  content: "\e638";
+}
+
+.wallet-MNX:before {
+  content: "\e639";
+}
+
+.wallet-GRS:before {
+  content: "\e63a";
+}
+
+.wallet-MAID:before {
+  content: "\e63b";
+}
+
+.wallet-GAME:before {
+  content: "\e63c";
+}
+
+.wallet-EDG:before {
+  content: "\e63d";
+}
+
+.wallet-NXT:before {
+  content: "\e63e";
+}
+
+.wallet-DGD:before {
+  content: "\e63f";
+}
+
+.wallet-LSK:before {
+  content: "\e640";
+}
+
+.wallet-PAY:before {
+  content: "\e642";
+}
+
+.wallet-MCO:before {
+  content: "\e643";
+}
+
+.wallet-EOS:before {
+  content: "\e644";
+}
+
+.wallet-GNT:before {
+  content: "\e645";
+}
+
+.wallet-CVC:before {
+  content: "\e646";
+}
+
+.wallet-SNT:before {
+  content: "\e647";
+}
+
+.wallet-BTG:before {
+  content: "\e648";
+}
+
+.wallet-POT:before {
+  content: "\e649";
+}
+
+.wallet-SNGLS:before {
+  content: "\e64a";
+}
+
+.wallet-UBQ:before {
+  content: "\e64b";
+}
+
+.wallet-GAS:before {
+  content: "\e64d";
+}
+
+.wallet-ADA:before {
+  content: "\e64e";
+}
+
+.wallet-NAV:before {
+  content: "\e652";
+}
+
+.wallet-ETP:before {
+  content: "\e653";
+}
+
+.wallet-XMR:before {
+  content: "\e654";
+}
+
+.wallet-ETHOS:before {
+  content: "\e655";
+}
+
+.wallet-REP:before {
+  content: "\e656";
+}
+
+.wallet-GNO:before {
+  content: "\e657";
+}
+
+.wallet-XEM:before {
+  content: "\e658";
+}
+
+.wallet-GXS:before {
+  content: "\e659";
+}
+
+.wallet-RDN:before {
+  content: "\e65a";
+}
+
+.wallet-XVG:before {
+  content: "\e65b";
+}
+
+.wallet-STEEM:before {
+  content: "\e65c";
+}
+
+.wallet-XZC:before {
+  content: "\e65d";
+}
+
+.wallet-QTUM:before {
+  content: "\e65e";
+}
+
+.wallet-MONA:before {
+  content: "\e65f";
+}
+
+.wallet-SAN:before {
+  content: "\e660";
+}
+
+.wallet-OMG:before {
+  content: "\e661";
+}
+
+.wallet-WAVES:before {
+  content: "\e662";
+}
+
+.wallet-PPC:before {
+  content: "\e663";
+}
+
+.wallet-SYS:before {
+  content: "\e665";
+}
+
+.wallet-PIVX:before {
+  content: "\e666";
+}
+
+.wallet-SKY:before {
+  content: "\e667";
+}
+
+.wallet-HSR:before {
+  content: "\e668";
+}
+
+.wallet-ZEN:before {
+  content: "\e669";
+}
+
+.wallet-PPT:before {
+  content: "\e66a";
+}
+
+.wallet-LTC:before {
+  content: "\e66b";
+}
+
+.wallet-SALT:before {
+  content: "\e66c";
+}
+
+.wallet-START:before {
+  content: "\e66d";
+}
+
+.wallet-FCT:before {
+  content: "\e66e";
+}
+
+.wallet-FUN:before {
+  content: "\e670";
+}
+
+.wallet-XRP:before {
+  content: "\e671";
+}
+
+.wallet-POWER:before {
+  content: "\e672";
+}
+
+.wallet-TRX:before {
+  content: "\e673";
+}
+
+.wallet-SC:before {
+  content: "\e674";
+}
+
+.wallet-WTC:before {
+  content: "\e675";
+}
+
+.wallet-ZRX:before {
+  content: "\e676";
+}
+
+.wallet-XLM:before {
+  content: "\e677";
+}
+
+.wallet-QASH:before {
+  content: "\e678";
+}
+
+.wallet-PURA:before {
+  content: "\e679";
+}
+
+.wallet-USDT:before {
+  content: "\e67a";
+}
+
+.wallet-STORJ:before {
+  content: "\e67b";
+}
+
+.wallet-ZEC:before {
+  content: "\e67c";
+}
+
+.wallet-VTC:before {
+  content: "\e67d";
+}
+
+.wallet-IOT:before {
+  content: "\e67e";
+}
+
+.wallet-24px:before {
+  content: "\e60e";
+}
+
+.wallet-zuo:before {
+  content: "\e641";
+}
+
+.wallet-qianbao:before {
+  content: "\e6f9";
+}
+
+.wallet-info1:before {
+  content: "\e625";
+}
+
+.wallet-info:before {
+  content: "\e66f";
+}
+
+.wallet-zhexian:before {
+  content: "\e664";
+}
+
+.wallet-wenjianjia:before {
+  content: "\e602";
+}
+
+.wallet-morentouxiangbeifen:before {
+  content: "\e628";
+}
+
+.wallet-chaguanlian:before {
+  content: "\e619";
+}
+
+.wallet-copy-comparison:before {
+  content: "\e93b";
+}
+
+.wallet-dian:before {
+  content: "\e6d3";
+}
+
+.wallet-ziyuanjrit:before {
+  content: "\e62f";
+}
+
+.wallet-xiangyou:before {
+  content: "\e61a";
+}
+
+.wallet-lianjie:before {
+  content: "\e6a8";
+}
+
+.wallet-xianshi:before {
+  content: "\e61e";
+}
+
+.wallet-yincang:before {
+  content: "\e651";
+}
+
+.wallet-iconfontcolor63:before {
+  content: "\e6bc";
+}
+
+.wallet-gongju:before {
+  content: "\e601";
+}
+
+.wallet-anquan:before {
+  content: "\e615";
+}
+
+.wallet-baoxianxiang:before {
+  content: "\e650";
+}
+
+.wallet-lianxi:before {
+  content: "\e6da";
+}
+
+.wallet-world-flag_-BHS--Bahamas:before {
+  content: "\e893";
+}
+
+.wallet-world-flag_-BHR--Bahrain:before {
+  content: "\e894";
+}
+
+.wallet-world-flag_-BGD--Bangladesh:before {
+  content: "\e895";
+}
+
+.wallet-world-flag_-BRB--Barbados:before {
+  content: "\e896";
+}
+
+.wallet-world-flag_-BLR--Belarus:before {
+  content: "\e897";
+}
+
+.wallet-world-flag_-BEL--Belgium:before {
+  content: "\e898";
+}
+
+.wallet-world-flag_-BLZ--Belize:before {
+  content: "\e899";
+}
+
+.wallet-world-flag_-BEN--Benin:before {
+  content: "\e89a";
+}
+
+.wallet-world-flag_-BMU--Bermuda:before {
+  content: "\e89b";
+}
+
+.wallet-world-flag_-BTN--Bhutan:before {
+  content: "\e89c";
+}
+
+.wallet-world-flag_-BOL--Bolivia:before {
+  content: "\e89d";
+}
+
+.wallet-world-flag_-BIH--BosniaandHerzegovina:before {
+  content: "\e89e";
+}
+
+.wallet-world-flag_-BWA--Botswana:before {
+  content: "\e89f";
+}
+
+.wallet-world-flag_-BVT--BouvetIsland:before {
+  content: "\e8a0";
+}
+
+.wallet-world-flag_-BRA--Brazil:before {
+  content: "\e8a1";
+}
+
+.wallet-world-flag_-VGB--BritishVirginIslands:before {
+  content: "\e8a2";
+}
+
+.wallet-world-flag_-IOT--BritishIndianOceanTerritory:before {
+  content: "\e8a3";
+}
+
+.wallet-world-flag_-BRN--BruneiDarussalam:before {
+  content: "\e8a4";
+}
+
+.wallet-world-flag_-BGR--Bulgaria:before {
+  content: "\e8a5";
+}
+
+.wallet-world-flag_-BFA--BurkinaFaso:before {
+  content: "\e8a6";
+}
+
+.wallet-world-flag_-BDI--Burundi:before {
+  content: "\e8a7";
+}
+
+.wallet-world-flag_-CMR--Cameroon:before {
+  content: "\e8a8";
+}
+
+.wallet-world-flag_-KHM--Cambodia:before {
+  content: "\e8a9";
+}
+
+.wallet-world-flag_-CAN--Canada:before {
+  content: "\e8aa";
+}
+
+.wallet-world-flag_-CPV--CapeVerde:before {
+  content: "\e8ab";
+}
+
+.wallet-world-flag_-BES--CaribbeanNetherlands:before {
+  content: "\e8ac";
+}
+
+.wallet-world-flag_-CAF--CentralAfricanRepublic:before {
+  content: "\e8ad";
+}
+
+.wallet-world-flag_-TCD--Chad:before {
+  content: "\e8ae";
+}
+
+.wallet-world-flag_-CYM--CaymanIslands:before {
+  content: "\e8af";
+}
+
+.wallet-world-flag_-CHL--Chile:before {
+  content: "\e8b0";
+}
+
+.wallet-world-flag_-CHN--China:before {
+  content: "\e8b1";
+}
+
+.wallet-world-flag_-ATA--Antarctica:before {
+  content: "\e8b2";
+}
+
+.wallet-world-flag_-CXR--ChristmasIsland:before {
+  content: "\e8b3";
+}
+
+.wallet-world-flag_-CCK--CocosKeelingIslands:before {
+  content: "\e8b4";
+}
+
+.wallet-world-flag_-COM--Comoros:before {
+  content: "\e8b5";
+}
+
+.wallet-world-flag_-COL--Colombia:before {
+  content: "\e8b6";
+}
+
+.wallet-world-flag_-COG--CongoBrazzaville:before {
+  content: "\e8b7";
+}
+
+.wallet-world-flag_-COD--CongoKinshasa:before {
+  content: "\e8b8";
+}
+
+.wallet-world-flag_-COK--CookIslands:before {
+  content: "\e8b9";
+}
+
+.wallet-world-flag_-CRI--CostaRica:before {
+  content: "\e8ba";
+}
+
+.wallet-world-flag_-CIV--CtedIvoire:before {
+  content: "\e8bb";
+}
+
+.wallet-world-flag_-CUB--Cuba:before {
+  content: "\e8bc";
+}
+
+.wallet-world-flag_-HRV--Croatia:before {
+  content: "\e8bd";
+}
+
+.wallet-world-flag_-CUW--Curaao:before {
+  content: "\e8be";
+}
+
+.wallet-world-flag_-CYP--Cyprus:before {
+  content: "\e8bf";
+}
+
+.wallet-world-flag_-CZE--CzechRepublic:before {
+  content: "\e8c0";
+}
+
+.wallet-world-flag_-DNK--Denmark:before {
+  content: "\e8c1";
+}
+
+.wallet-world-flag_-DJI--Djibouti:before {
+  content: "\e8c2";
+}
+
+.wallet-world-flag_-DMA--Dominica:before {
+  content: "\e8c3";
+}
+
+.wallet-world-flag_-DOM--DominicanRepublic:before {
+  content: "\e8c4";
+}
+
+.wallet-world-flag_-ECU--Ecuador:before {
+  content: "\e8c5";
+}
+
+.wallet-world-flag_-EGY--Egypt:before {
+  content: "\e8c6";
+}
+
+.wallet-world-flag_-SLV--ElSalvador:before {
+  content: "\e8c7";
+}
+
+.wallet-world-flag_-GB-ENG--England:before {
+  content: "\e8c8";
+}
+
+.wallet-world-flag_-GNQ--EquatorialGuinea:before {
+  content: "\e8c9";
+}
+
+.wallet-world-flag_-ERI--Eritrea:before {
+  content: "\e8ca";
+}
+
+.wallet-world-flag_-EST--Estonia:before {
+  content: "\e8cb";
+}
+
+.wallet-world-flag_-ETH--Ethiopia:before {
+  content: "\e8cc";
+}
+
+.wallet-world-flag_-FLK--FalklandIslandsMalvinas:before {
+  content: "\e8cd";
+}
+
+.wallet-world-flag_-FRO--FaroeIslands:before {
+  content: "\e8ce";
+}
+
+.wallet-world-flag_-FRA--France:before {
+  content: "\e8cf";
+}
+
+.wallet-world-flag_-FJI--Fiji:before {
+  content: "\e8d0";
+}
+
+.wallet-world-flag_-FIN--Finland:before {
+  content: "\e8d1";
+}
+
+.wallet-world-flag_-PYF--FrenchPolynesia:before {
+  content: "\e8d2";
+}
+
+.wallet-world-flag_-GUF--FrenchGuiana:before {
+  content: "\e8d3";
+}
+
+.wallet-world-flag_-ATF--FrenchSouthernTerritories:before {
+  content: "\e8d4";
+}
+
+.wallet-world-flag_-GAB--Gabon:before {
+  content: "\e8d5";
+}
+
+.wallet-world-flag_-GMB--Gambia:before {
+  content: "\e8d6";
+}
+
+.wallet-world-flag_-GEO--Georgia:before {
+  content: "\e8d7";
+}
+
+.wallet-world-flag_-DEU--Germany:before {
+  content: "\e8d8";
+}
+
+.wallet-world-flag_-GHA--Ghana:before {
+  content: "\e8d9";
+}
+
+.wallet-world-flag_-GIB--Gibraltar:before {
+  content: "\e8da";
+}
+
+.wallet-world-flag_-GRC--Greece:before {
+  content: "\e8db";
+}
+
+.wallet-world-flag_-GRL--Greenland:before {
+  content: "\e8dc";
+}
+
+.wallet-world-flag_-GRD--Grenada:before {
+  content: "\e8dd";
+}
+
+.wallet-world-flag_-GTM--Guatemala:before {
+  content: "\e8de";
+}
+
+.wallet-world-flag_-GGY--Guernsey:before {
+  content: "\e8df";
+}
+
+.wallet-world-flag_-GUM--Guam:before {
+  content: "\e8e0";
+}
+
+.wallet-world-flag_-GIN--Guinea:before {
+  content: "\e8e1";
+}
+
+.wallet-world-flag_-GNB--GuineaBissau:before {
+  content: "\e8e2";
+}
+
+.wallet-world-flag_-GUY--Guyana:before {
+  content: "\e8e3";
+}
+
+.wallet-world-flag_-HTI--Haiti:before {
+  content: "\e8e4";
+}
+
+.wallet-world-flag_-HMD--HeardandMcdonaldIslands:before {
+  content: "\e8e5";
+}
+
+.wallet-world-flag_-VAT--HolySeeVaticanCityState:before {
+  content: "\e8e6";
+}
+
+.wallet-world-flag_-HND--Honduras:before {
+  content: "\e8e7";
+}
+
+.wallet-world-flag_-HKG--HongKongSARChina:before {
+  content: "\e8e8";
+}
+
+.wallet-world-flag_-HUN--Hungary:before {
+  content: "\e8e9";
+}
+
+.wallet-world-flag_-ISL--Iceland:before {
+  content: "\e8ea";
+}
+
+.wallet-world-flag_-IND--India:before {
+  content: "\e8eb";
+}
+
+.wallet-world-flag_-IDN--Indonesia:before {
+  content: "\e8ec";
+}
+
+.wallet-world-flag_-IRL--Ireland:before {
+  content: "\e8ed";
+}
+
+.wallet-world-flag_-IRN--IranIslamicRepublicof:before {
+  content: "\e8ee";
+}
+
+.wallet-world-flag_-IRQ--Iraq:before {
+  content: "\e8ef";
+}
+
+.wallet-world-flag_-IMN--IsleofMan:before {
+  content: "\e8f0";
+}
+
+.wallet-world-flag_-ISR--Israel:before {
+  content: "\e8f1";
+}
+
+.wallet-world-flag_-ITA--Italy:before {
+  content: "\e8f2";
+}
+
+.wallet-world-flag_-JAM--Jamaica:before {
+  content: "\e8f3";
+}
+
+.wallet-world-flag_-JPN--Japan:before {
+  content: "\e8f4";
+}
+
+.wallet-world-flag_-JEY--Jersey:before {
+  content: "\e8f5";
+}
+
+.wallet-world-flag_-JOR--Jordan:before {
+  content: "\e8f6";
+}
+
+.wallet-world-flag_-KEN--Kenya:before {
+  content: "\e8f7";
+}
+
+.wallet-world-flag_-KAZ--Kazakhstan:before {
+  content: "\e8f8";
+}
+
+.wallet-world-flag_-KIR--Kiribati:before {
+  content: "\e8f9";
+}
+
+.wallet-world-flag_-PRK--KoreaNorth:before {
+  content: "\e8fa";
+}
+
+.wallet-world-flag_-KOR--KoreaSouth:before {
+  content: "\e8fb";
+}
+
+.wallet-world-flag_-XKX--Kosovo:before {
+  content: "\e8fc";
+}
+
+.wallet-world-flag_-KWT--Kuwait:before {
+  content: "\e8fd";
+}
+
+.wallet-world-flag_-KGZ--Kyrgyzstan:before {
+  content: "\e8fe";
+}
+
+.wallet-world-flag_-LAO--LaosPDR:before {
+  content: "\e8ff";
+}
+
+.wallet-world-flag_-LVA--Latvia:before {
+  content: "\e900";
+}
+
+.wallet-world-flag_-LBN--Lebanon:before {
+  content: "\e901";
+}
+
+.wallet-world-flag_-LSO--Lesotho:before {
+  content: "\e902";
+}
+
+.wallet-world-flag_-LBR--Liberia:before {
+  content: "\e903";
+}
+
+.wallet-world-flag_-LBY--Libya:before {
+  content: "\e904";
+}
+
+.wallet-world-flag_-LIE--Liechtenstein:before {
+  content: "\e905";
+}
+
+.wallet-world-flag_-LTU--Lithuania:before {
+  content: "\e906";
+}
+
+.wallet-world-flag_-LUX--Luxembourg:before {
+  content: "\e907";
+}
+
+.wallet-world-flag_-MAC--MacaoSARChina:before {
+  content: "\e908";
+}
+
+.wallet-world-flag_-MKD--MacedoniaRepublicof:before {
+  content: "\e909";
+}
+
+.wallet-world-flag_-MDG--Madagascar:before {
+  content: "\e90a";
+}
+
+.wallet-world-flag_-MWI--Malawi:before {
+  content: "\e90b";
+}
+
+.wallet-world-flag_-MDV--Maldives:before {
+  content: "\e90c";
+}
+
+.wallet-world-flag_-MYS--Malaysia:before {
+  content: "\e90d";
+}
+
+.wallet-world-flag_-MLI--Mali:before {
+  content: "\e90e";
+}
+
+.wallet-world-flag_-MLT--Malta:before {
+  content: "\e90f";
+}
+
+.wallet-world-flag_-MHL--MarshallIslands:before {
+  content: "\e910";
+}
+
+.wallet-world-flag_-MTQ--Martinique:before {
+  content: "\e911";
+}
+
+.wallet-world-flag_-MRT--Mauritania:before {
+  content: "\e912";
+}
+
+.wallet-world-flag_-MUS--Mauritius:before {
+  content: "\e913";
+}
+
+.wallet-world-flag_-MYT--Mayotte:before {
+  content: "\e914";
+}
+
+.wallet-world-flag_-MEX--Mexico:before {
+  content: "\e915";
+}
+
+.wallet-world-flag_-FSM--MicronesiaFederatedStatesof:before {
+  content: "\e916";
+}
+
+.wallet-world-flag_-MDA--Moldova:before {
+  content: "\e917";
+}
+
+.wallet-world-flag_-MCO--Monaco:before {
+  content: "\e918";
+}
+
+.wallet-world-flag_-MNG--Mongolia:before {
+  content: "\e919";
+}
+
+.wallet-world-flag_-MNE--Montenegro:before {
+  content: "\e91a";
+}
+
+.wallet-world-flag_-MSR--Montserrat:before {
+  content: "\e91b";
+}
+
+.wallet-world-flag_-MAR--Morocco:before {
+  content: "\e91c";
+}
+
+.wallet-world-flag_-MOZ--Mozambique:before {
+  content: "\e91d";
+}
+
+.wallet-world-flag_-MMR--Myanmar:before {
+  content: "\e91e";
+}
+
+.wallet-world-flag_-NAM--Namibia:before {
+  content: "\e91f";
+}
+
+.wallet-meiguo--copy:before {
+  content: "\e93c";
+}
+
+.wallet-world-flag_-NPL--Nepal:before {
+  content: "\e920";
+}
+
+.wallet-world-flag_-NRU--Nauru:before {
+  content: "\e921";
+}
+
+.wallet-world-flag_-ANT--NetherlandsAntilles:before {
+  content: "\e922";
+}
+
+.wallet-world-flag_-NCL--NewCaledonia:before {
+  content: "\e923";
+}
+
+.wallet-world-flag_-NLD--Netherlands:before {
+  content: "\e924";
+}
+
+.wallet-world-flag_-NZL--NewZealand:before {
+  content: "\e925";
+}
+
+.wallet-world-flag_-NIC--Nicaragua:before {
+  content: "\e926";
+}
+
+.wallet-world-flag_-NER--Niger:before {
+  content: "\e927";
+}
+
+.wallet-world-flag_-NIU--Niue:before {
+  content: "\e928";
+}
+
+.wallet-world-flag_-NGA--Nigeria:before {
+  content: "\e929";
+}
+
+.wallet-world-flag_-MNP--NorthernMarianaIslands:before {
+  content: "\e92a";
+}
+
+.wallet-world-flag_-NFK--NorfolkIsland:before {
+  content: "\e92b";
+}
+
+.wallet-world-flag_-GB-NIR--NorthernIreland:before {
+  content: "\e92c";
+}
+
+.wallet-world-flag_-NOR--Norway:before {
+  content: "\e92d";
+}
+
+.wallet-world-flag_-OMN--Oman:before {
+  content: "\e92e";
+}
+
+.wallet-world-flag_-PAK--Pakistan:before {
+  content: "\e92f";
+}
+
+.wallet-world-flag_-PLW--Palau:before {
+  content: "\e930";
+}
+
+.wallet-world-flag_-PSE--PalestinianTerritory:before {
+  content: "\e931";
+}
+
+.wallet-world-flag_-PAN--Panama:before {
+  content: "\e932";
+}
+
+.wallet-world-flag_-PNG--PapuaNewGuinea:before {
+  content: "\e933";
+}
+
+.wallet-world-flag_-PRY--Paraguay:before {
+  content: "\e934";
+}
+
+.wallet-world-flag_-PER--Peru:before {
+  content: "\e935";
+}
+
+.wallet-world-flag_-PHL--Philippines:before {
+  content: "\e936";
+}
+
+.wallet-world-flag_-POL--Poland:before {
+  content: "\e937";
+}
+
+.wallet-world-flag_-PRT--Portugal:before {
+  content: "\e938";
+}
+
+.wallet-world-flag_-PCN--Pitcairn:before {
+  content: "\e939";
+}
+
+.wallet-world-flag_-PRI--PuertoRico:before {
+  content: "\e93a";
+}
+
+.wallet-faguo:before {
+  content: "\e64f";
+}
+
+.wallet-China:before {
+  content: "\e613";
+}
+
+.wallet-USD:before {
+  content: "\e93d";
+}
+
+.wallet-meiguo-:before {
+  content: "\e637";
+}
+
+.wallet-world-flag_-AFG--Afghanistan:before {
+  content: "\e884";
+}
+
+.wallet-world-flag_-ALA--AlandIslands:before {
+  content: "\e885";
+}
+
+.wallet-world-flag_-ALB--Albania:before {
+  content: "\e886";
+}
+
+.wallet-world-flag_-DZA--Algeria:before {
+  content: "\e887";
+}
+
+.wallet-world-flag_-ASM--AmericanSamoa:before {
+  content: "\e888";
+}
+
+.wallet-world-flag_-AGO--Angola:before {
+  content: "\e889";
+}
+
+.wallet-world-flag_-AND--Andorra:before {
+  content: "\e88a";
+}
+
+.wallet-world-flag_-AIA--Anguilla:before {
+  content: "\e88b";
+}
+
+.wallet-world-flag_-ATG--AntiguaandBarbuda:before {
+  content: "\e88c";
+}
+
+.wallet-world-flag_-ARG--Argentina:before {
+  content: "\e88d";
+}
+
+.wallet-world-flag_-ARM--Armenia:before {
+  content: "\e88e";
+}
+
+.wallet-world-flag_-ABW--Aruba:before {
+  content: "\e88f";
+}
+
+.wallet-world-flag_-AUS--Australia:before {
+  content: "\e890";
+}
+
+.wallet-world-flag_-AUT--Austria:before {
+  content: "\e891";
+}
+
+.wallet-world-flag_-AZE--Azerbaijan:before {
+  content: "\e892";
+}
+
+.wallet-caidan-dian:before {
+  content: "\e600";
+}
+
+.wallet-diqiuquanqiu:before {
+  content: "\e76c";
+}
+
+.wallet-yinxingqia:before {
+  content: "\e604";
+}
+
+.wallet-fanyi:before {
+  content: "\e6ba";
+}
+
+.wallet-shejiaotubiao-69:before {
+  content: "\e64c";
+}
+
+.wallet-004erji-2:before {
+  content: "\e80d";
+}
+

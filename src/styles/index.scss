@@ -1,0 +1,234 @@
+@import './variables.scss';
+@import './mixin.scss';
+@import './transition.scss';
+@import './element-ui.scss';
+@import './sidebar.scss';
+
+body {
+  height: auto;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
+  // background-image: url("~@/assets/images/body-bg.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% auto;
+}
+
+html {
+  font-family: 'Montserrat', PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif;
+  height: auto;
+  box-sizing: border-box;
+}
+
+#app {
+  height: auto;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+a:focus,
+a:active {
+  outline: none;
+}
+
+a,
+a:focus,
+a:hover {
+  cursor: pointer;
+  color: inherit;
+  text-decoration: none;
+}
+
+div:focus {
+  outline: none;
+}
+
+.clearfix {
+  &:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+  }
+}
+
+// main-container global css
+.app-container {
+  padding: 20px;
+}
+.animated.flipInX:hover .card-detail {
+  transform: translateY(-119px);
+  transition: 1s;
+  border-bottom-left-radius: 35px;
+  opacity: 0.6;
+  background: #000;
+  color: #fff !important;
+  border-bottom-right-radius: 35px;
+  cursor: pointer;
+
+  @media screen and (max-width:767px){
+    transform: translateY(-138px);
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+  }
+}
+.card-detail {
+  cursor: pointer;
+  padding: 20px 0px;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  box-sizing: border-box;
+
+  @media screen and (max-width: 1200px) {
+    width: 100%;
+    padding: 0 10px;
+  }
+}
+// custom css
+
+body .title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+.subtitle,
+body button,
+.one .icons .icon .num,
+.business-box .eight .name,
+body .header a {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+.business-box .eight .name{font-style: italic;}
+body .desc {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+body button.el-button {
+  border-radius: 10px;
+  background-color:#f8a358;
+  border-color: #f8a358;
+  transition: .2s ease-in;
+}
+.nav-list a .router-link-exact-active{
+  border-color: $--default-border-bg-color;
+}
+
+body button.el-button:hover {
+  background-color: transparent;
+  color: $--default-btn-bg-color;
+}
+.footer {
+  background-color: $--default-footer-bg-color;
+}
+.footer .quick,
+.footer .subscribe,
+.footer .subscribe .el-form-item__label,
+.footer .bottom-box{
+  color:$--default-footer-txt-color;
+}
+.footer .subscribe button.el-button {
+  border-radius: 10px;
+  background-color: $--default-footer-txt-color;
+  border-color: $--default-footer-txt-color;
+  color: $--default-btn-bg-color;
+  transition: .2s ease-in;
+}
+
+.footer .subscribe button.el-button:hover {
+  background-color: $--default-background-color;
+  border-color: $--default-background-color;
+  color: $--default-btn-bg-color;
+}
+
+label {
+  font-weight: 700;
+}
+
+.trade-box .box .el-form-item:last-child{
+  margin-bottom: 0;
+}
+.contact-box .form .el-checkbox__input{
+  vertical-align: top;
+  margin-top: 4px;    
+}
+.contact-box .form .el-checkbox__label{
+  white-space: break-spaces;
+  line-height: 1.5;
+}
+.subscribe .el-select{
+  display:block;
+}
+.subscribe .el-input--suffix .el-input__suffix{
+  height: 50%;
+  top: 50%;
+}
+.subscribe .el-input__inner{
+  background-color: $--default-footer-txt-color;
+}
+.el-form-item__label {
+  text-align: left;
+}
+.el-form-item.is-required:not(.is-no-asterisk)>.el-form-item__label:after {
+  content: '*';
+  color: #F56C6C;
+  margin-left: 5px;
+}
+.el-form-item.is-required:not(.is-no-asterisk)>.el-form-item__label:before {
+  content: '';
+  color: #F56C6C;
+  margin-right: 4px;
+}
+.el-dialog__header {
+  padding: 0px;
+}
+.el-dialog{
+  margin-top: 15vh;
+    color: #fff;
+    width: 20% !important;
+    border-radius: 1rem;
+    position: absolute;
+    right: 95px;
+    left: unset;
+}
+@media screen and (max-width:767px){
+  .el-drawer__body {
+    padding: 20px;
+    text-align: center;
+  }
+  .el-drawer.rtl {
+    width: 50% !important;
+  }
+  .el-dialog{
+      color: #fff;
+      width: 60% !important;
+      right: 35px;
+      margin-top: 9vh !important;
+  }
+  .el-dialog__headerbtn{
+    top: 8px !important;
+    right: 10px !important;
+  }
+}
+
+#newsType{
+  width: 100%;
+  height: 40px;
+  border-radius: 4px;
+}
+@media screen and (max-width: 768px){
+  .footer .subscribe button.el-button{
+    float: right;
+  }
+}
